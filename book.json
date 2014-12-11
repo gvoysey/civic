@@ -1,0 +1,21 @@
+{
+  "plugins": ["autocover"],
+  "pluginsConfig": {
+    "autocover": {
+      "title": "The Civic: A Life Story",
+      "author": "G.E. Voysey; S.O. Voysey; I.E. Voysey",
+      "font": {
+        "size": 22,
+        "family": "Impact",
+        "color": "#FFF"
+      },
+      "size": {
+        "w": 1800,
+        "h": 2360
+      },
+      "background": {
+        "color": "#09F"
+      }
+    }
+  }
+}
